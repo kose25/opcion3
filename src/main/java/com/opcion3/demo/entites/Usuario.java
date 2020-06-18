@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.opcion3.entites;
+package com.opcion3.demo.entites;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
